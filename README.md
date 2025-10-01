@@ -49,7 +49,7 @@ Welcome to ticket booking application
 
 ```
 
-*Book flow (example)
+> Book flow (example)
 
 Choose 1 to Book
 
@@ -63,7 +63,7 @@ Berth preference: lower
 
 If preferred berth is unavailable, program will show other options (numbered). Choose one of them (1/2/3/4). For RAC prompt or waiting list, follow console instructions.
 
-*Cancel flow (example)
+> Cancel flow (example)
 
 Choose 2 to Cancel
 
@@ -75,11 +75,11 @@ If RAC list is non-empty, the first RAC passenger gets promoted to a confirmed b
 
 If waiting list non-empty, the first waiting passenger moves to RAC.
 
-*Print booked tickets
+> Print booked tickets
 
 Choose 3 — shows Confirmed, RAC and Waiting lists with counts.
 
-*Print available tickets
+> Print available tickets
 
 Choose 4 — shows available counts for berths, RAC and waiting list.
 
